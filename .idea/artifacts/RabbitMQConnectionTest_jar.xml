@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RabbitMQConnectionTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RabbitMQConnectionTest_jar</output-path>
+    <root id="archive" name="RabbitMQConnectionTest.jar">
+      <element id="module-output" name="RabbitMQConnectionTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hamcrest-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-cli-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/rabbitmq-client.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/rabbitmq-client-tests.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
